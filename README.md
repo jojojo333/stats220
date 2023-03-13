@@ -4,7 +4,7 @@
 
 I am a second year at the *University of Auckland* doing a Bachelor of Science (BSc) specialising in Data Science. I will be using this page to display my work on **STATS 220 projects** and keep track of my progress. 
 
-![]("https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg")
+![](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
 
 I am aiming to become a great *data scientist* like my passionate lecturer who is a role model for a student aspiring to become a data scientist one day and will learn these modules this semester:
 
